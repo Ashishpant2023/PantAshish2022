@@ -1,11 +1,14 @@
 Hi there, I'm Ashish Pant! 👋
+
 Welcome to my GitHub profile! I'm a passionate Data Analyst with a strong background in Python programming and machine learning. I'm enthusiastic about solving complex problems through data-driven insights and creating innovative solutions.
 
 About Me
+
 🌱 I hold a Data Analysis certification and a Machine Learning in Python certification from DataQuest.
 📊 My expertise lies in data analysis, machine learning, and neural networks.
 🔬 I'm constantly exploring new techniques and tools in the field of data science.
 🎓 I'm eager to collaborate on projects that involve predictive modeling, data visualization, and algorithm development.
+
 Projects
 Here are some of the projects I've worked on:
 
@@ -43,6 +46,7 @@ Predicting Heart Disease(Logistic Regression):
 
 
 Skills:
+
 Python (Intermidiate)
 Pandas (Intermidiate)
 Scikit-learn (intermidiate)
@@ -51,6 +55,7 @@ Neural Networks Beginner Level)
 Machine Learning (intermidiate)
 Data Visualization (intermidiate)
 Natural Language Processing (NLP) (Beginner Level)
+
 Let's Connect
 I'm always open to connecting with fellow data enthusiasts and collaborating on exciting projects. Feel free to reach out to me on www.linkedin.com/in/ashish-pant-b09653201
 
